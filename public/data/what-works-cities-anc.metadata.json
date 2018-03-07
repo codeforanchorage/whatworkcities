@@ -1,0 +1,13 @@
+{ 
+  "locationName": "United States of America",
+  "annotation": "What Works Cities - w/o Anchorage & Honolulu",
+  "countryName": "U.S.",
+  "neighborhoodNoun": ["city", "cities"],
+
+  "authorTwitter": "brendanbabb",
+
+  "dataUrl": "https://whatworkscities.bloomberg.org/cities/",
+  "dataTitle": "What Works Cities cities",
+
+  "pointsInsteadOfPolygons": true
+}

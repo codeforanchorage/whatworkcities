@@ -1,0 +1,13 @@
+{ 
+  "locationName": "United States of America",
+  "annotation": "Code for America Brigades - w/o Anchorage & Hawaii",
+  "countryName": "U.S.",
+  "neighborhoodNoun": ["city", "cities"],
+
+  "authorTwitter": "brendanbabb",
+
+  "dataUrl": "http://api.codeforamerica.org/api/organizations.geojson",
+  "dataTitle": "Code for America Brigades API",
+
+  "pointsInsteadOfPolygons": true
+}

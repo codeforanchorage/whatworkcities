@@ -1,0 +1,13 @@
+{ 
+  "locationName": "Alaska",
+  "countryName": "U.S.",
+  "annotation": "Iditarod Trail - Southern Route",
+  "pointsInsteadOfPolygons": true,
+
+  "neighborhoodNoun": ["checkpoint", "checkpoints"],
+  
+  "authorTwitter": "brendanbabb",
+  
+  "dataUrl": "http://iditarod.com/race/2018/checkpoints/",
+  "dataTitle": "Iditarod "
+}
